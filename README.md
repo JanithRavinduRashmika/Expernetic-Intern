@@ -6,6 +6,8 @@ This repository contains the code and resources for the Expernetic Internship pr
 You can access the final report here:  
 - 📄 [Final Report PDF](Content/Final_Report.pdf)
 
+<br>
+
 ## Repository Structure
 
 ### 1. 📁 Content
