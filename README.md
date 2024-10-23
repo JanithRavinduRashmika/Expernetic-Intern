@@ -4,7 +4,7 @@
 
 This repository contains the code and resources for the Expernetic Internship project. Below is a brief description of the contents of each folder.  
 You can access the final report here:  
-- 📄 [Final Report PDF](Content/Final_Report.pdf)
+- 📄 [Final Report PDF](Content/Final Report.pdf)
 
 <br>
 
