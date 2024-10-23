@@ -1,5 +1,7 @@
 # Expernetic-Intern
 
+![Cover Image](Content/cover.png) 
+
 This repository contains the code and resources for the Expernetic Internship project. Below is a brief description of the contents of each folder.
 You can access final report in here:
 - [Final Report PDF](Content/Final_Report.pdf)
